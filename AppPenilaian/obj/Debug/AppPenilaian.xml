@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppPenilaian
+</name>
+</assembly>
+<members>
+<member name="T:AppPenilaian.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources._2849806_copy_interface_multimedia_print_printer_107972">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources._4115235_exit_logout_sign_out_114030">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources._4213589_calculate_calculator_doodle_education_line_school_vector_115495">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.admin_lock_padlock_icon_205893">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.admin_user_icon_188317">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.analysis_visualization_data_graph_chart_icon_262765">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.back_button_circular_left_arrow_symbol_icon_icons_com_74326">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.calculation_count_finance_calculator_calc_math_icon_256453">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.checklist_38554">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.correct_symbol_icon_icons_com_73609">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.delete_4219">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.effective_employees_users_team_group_icon_152042">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.exposure_value_48_46071">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.fileinterfacesymboloftextpapersheet_79740">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.gambar_green_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.gambar_green_laundry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.graph_analytics_charts_data_study_anaysis_icon_143871">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.index_data_icon_161123">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.login_arrow_symbol_entering_back_into_a_square_icon_icons_com_73221">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.logout_circle_icon_206010">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.matrix_icon_137416">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.Menu_icon_2_icon_icons_com_71856">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.preliminary_examination_disease_icon_145854">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.race_finish_ceklist_icon_208191__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.race_finish_ceklist_icon_208191__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.savetheapplication_guardar_2958">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.Screenshot_20240101_062927_WhatsApp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.server_rack_telecommunications_data_server_network_devices_data_center_icon_193885">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.sort_by_attributes_icon_icons_com_73406">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:AppPenilaian.My.Resources.Resources.twocirclingarrows1_120592">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1.kriteriaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1.kriteriaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1.kriteriaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1TableAdapters.kriteriaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(AppPenilaian.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(AppPenilaian.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(AppPenilaian.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.UpdateAll(AppPenilaian.DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:AppPenilaian.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
