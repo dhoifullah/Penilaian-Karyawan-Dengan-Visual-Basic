@@ -13,8 +13,8 @@ Aplikasi Penilaian Karyawan adalah sebuah program yang dirancang untuk membantu 
 ## Teknologi yang Digunakan
 - Microsoft Visual Studio
 - C#
-- SQL Server (atau database yang digunakan)
-- [Framework yang relevan, jika ada]
+- SQL Server
+- PHP Myadmin
 
 ## Instalasi
 1. Clone repositori ini ke mesin lokal Anda:
